@@ -104,8 +104,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://www.instagram.com/7h3.qu13t.0n3?igsh=MXRiajN4cTlzMTg0MQ==)
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/Cognitiveshadows)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:sharppirate381@gmail.com)
-[![Claude](https://img.shields.io/badge/✦_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC)](https://claude.ai)
-[![Deepseek](https://img.shields.io/badge/✦_DEEPSEEK-0D1117?style=for-the-badge&logo=deepseek&logoColor=C084FC)](https://www.deepseek.com/en/)
 
 <br>
 
