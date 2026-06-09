@@ -52,7 +52,7 @@
 [![ROM](https://img.shields.io/badge/✦_CRDROID_10.5-0D1117?style=for-the-badge&logo=android&logoColor=4ADE80)](https://crdroid.net)
 [![Root](https://img.shields.io/badge/✦_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=4ADE80)](https://kernelsu.org)
 
-![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=✦+Bootloader+Unlocked;✦+Root+Access+Granted;✦+Kernel+Modified;✦+Integrity+Disabled)
+![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=✦+Bootloader+Unlocked;✦+Root+Access+Granted;✦+Kernel+Still+Stock;✦+Play+Integrity+Bypassed)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn)
 
@@ -77,7 +77,7 @@
 ![grammar](https://img.shields.io/badge/✦_N5_Grammar-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=FCD34D&labelColor=0D1117)
 ![jlpt](https://img.shields.io/badge/✦_JLPT_N5-TARGET-0D1117?style=for-the-badge&logo=duolingo&logoColor=F87171&labelColor=0D1117)
 
->「複雑なものほど、美しく感じる。」*
+>「いつか日本語を話せるようになりたい」*
 
 </div>
 
