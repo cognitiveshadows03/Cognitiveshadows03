@@ -20,23 +20,32 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=720&height=72&lines=✦+ALL+TIME+FAVORITES+✦)
 
-
-[![Horimiya](https://img.shields.io/badge/✦_HORIMIYA-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/124080/Horimiya/)
-[![Your Lie in April](https://img.shields.io/badge/✦_YOUR_LIE_IN_APRIL-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/20665/Shigatsu-wa-Kimi-no-Uso)
-[![Bocchi the Rock](https://img.shields.io/badge/✦_BOCCHI_THE_ROCK-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/130003/Bocchi-the-Rock/)
-[![Chainsaw Man:Reze Arc](https://img.shields.io/badge/✦_CHAINSAW_MAN-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/171627/Chainsaw-Man--The-Movie-Reze-Arc/)
-[![I Want to Eat Your Pancreas](https://img.shields.io/badge/✦_I_WANT_TO_EAT_YOUR_PANCREAS-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/anime/99750/I-Want-to-Eat-Your-Pancreas/)
+<!-- FIXED: Added div wrappers with background-color for Light Mode compatibility -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px;">
+  <a href="https://anilist.co/anime/124080/Horimiya/" style="display: inline-block; background-color: #0D1117; color: #F9A8D4; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ HORIMIYA</a>
+  <a href="https://anilist.co/anime/20665/Shigatsu-wa-Kimi-no-Uso" style="display: inline-block; background-color: #0D1117; color: #F9A8D4; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ YOUR LIE IN APRIL</a>
+</div>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px;">
+  <a href="https://anilist.co/anime/130003/Bocchi-the-Rock/" style="display: inline-block; background-color: #0D1117; color: #F9A8D4; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ BOCCHI THE ROCK</a>
+  <a href="https://anilist.co/anime/171627/Chainsaw-Man--The-Movie-Reze-Arc/" style="display: inline-block; background-color: #0D1117; color: #F9A8D4; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ CHAINSAW MAN</a>
+</div>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://anilist.co/anime/99750/I-Want-to-Eat-Your-Pancreas/" style="display: inline-block; background-color: #0D1117; color: #F9A8D4; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ I WANT TO EAT YOUR PANCREAS</a>
+</div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:F9A8D4,60:F9A8D4,100:0D1117&animation=fadeIn)
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F9A8D4&center=true&vCenter=true&repeat=false&width=720&height=72&lines=✦+CURRENTLY+WATCHING+✦)
 
-[![Currently Watching](https://img.shields.io/badge/✦_Classroom_Of_The_Elite-0D1117?style=for-the-badge&logo=anilist&logoColor=FCE7F3)](https://anilist.co/anime/98659/Classroom-of-the-Elite/)
-[![Currently Watching](https://img.shields.io/badge/✦_Demon_Slayer-0D1117?style=for-the-badge&logo=anilist&logoColor=FCE7F3)](https://anilist.co/anime/101922/Demon-Slayer-Kimetsu-no-Yaiba/)
+<!-- FIXED: Added div wrappers -->
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 10px;">
+  <a href="https://anilist.co/anime/98659/Classroom-of-the-Elite/" style="display: inline-block; background-color: #0D1117; color: #FCE7F3; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ Classroom Of The Elite</a>
+  <a href="https://anilist.co/anime/101922/Demon-Slayer-Kimetsu-no-Yaiba/" style="display: inline-block; background-color: #0D1117; color: #FCE7F3; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ Demon Slayer</a>
+</div>
 
 <br>
 
-[![AniList](https://img.shields.io/badge/✦_ANILIST-0D1117?style=for-the-badge&logo=anilist&logoColor=F9A8D4)](https://anilist.co/user/Cognitiveshadows03/)
+<a href="https://anilist.co/user/Cognitiveshadows03/" style="display: inline-block; background-color: #0D1117; color: #F9A8D4; padding: 10px 20px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ ANILIST</a>
 
 </div>
 
@@ -48,19 +57,23 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=4ADE80&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✦+SYSTEM+STATUS+✦)
 
-[![Device](https://img.shields.io/badge/✦_MOTOROLA_ONE_POWER-0D1117?style=for-the-badge&logo=motorola&logoColor=4ADE80)](https://www.gsmarena.com/motorola_one_power-9431.php)
-[![ROM](https://img.shields.io/badge/✦_CRDROID_10.5-0D1117?style=for-the-badge&logo=android&logoColor=4ADE80)](https://crdroid.net)
-[![Root](https://img.shields.io/badge/✦_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=4ADE80)](https://kernelsu.org)
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.gsmarena.com/motorola_one_power-9431.php" style="display: inline-block; background-color: #0D1117; color: #4ADE80; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ MOTOROLA ONE POWER</a>
+  <a href="https://crdroid.net" style="display: inline-block; background-color: #0D1117; color: #4ADE80; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ CRDROID 10.5</a>
+  <a href="https://kernelsu.org" style="display: inline-block; background-color: #0D1117; color: #4ADE80; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ KERNELSU</a>
+</div>
 
-![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=✦+Bootloader+Unlocked;✦+Root+Access+Granted;✦+Kernel+Still+Stock;✦+Play+Integrity+Bypassed)
+![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=✦+Bootloader+Unlocked;✦+Root+Access+Granted;✦+Kernel+Modified;✦+Play+Integrity+Bypassed)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn)
 
-[![Magisk](https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://github.com/topjohnwu/Magisk)
-[![TWRP](https://img.shields.io/badge/TWRP-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://twrp.me)
-[![ADB](https://img.shields.io/badge/ADB-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://developer.android.com/tools/adb)
-[![Fastboot](https://img.shields.io/badge/Fastboot-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://source.android.com/docs/setup/test/running)
-[![LSPosed](https://img.shields.io/badge/LSPosed-0D1117?style=for-the-badge&logo=android&logoColor=FB923C)](https://github.com/LSPosed/LSPosed)
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://github.com/topjohnwu/Magisk" style="display: inline-block; background-color: #0D1117; color: #FB923C; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">Magisk</a>
+  <a href="https://twrp.me" style="display: inline-block; background-color: #0D1117; color: #FB923C; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">TWRP</a>
+  <a href="https://developer.android.com/tools/adb" style="display: inline-block; background-color: #0D1117; color: #FB923C; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">ADB</a>
+  <a href="https://source.android.com/docs/setup/test/running" style="display: inline-block; background-color: #0D1117; color: #FB923C; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">Fastboot</a>
+  <a href="https://github.com/LSPosed/LSPosed" style="display: inline-block; background-color: #0D1117; color: #FB923C; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">LSPosed</a>
+</div>
 
 </div>
 
@@ -70,14 +83,16 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=FCD34D&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✦+日本語+PROGRESS+✦)
 
-![hiragana](https://img.shields.io/badge/✦_Hiragana-COMPLETE-0D1117?style=for-the-badge&logo=duolingo&logoColor=4ADE80&labelColor=0D1117)
-![katakana](https://img.shields.io/badge/✦_Katakana-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=4ADE80&labelColor=0D1117)
-![numbers](https://img.shields.io/badge/✦_Numbers-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=4ADE80&labelColor=0D1117)
-![particles](https://img.shields.io/badge/✦_Particles-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=FCD34D&labelColor=0D1117)
-![grammar](https://img.shields.io/badge/✦_N5_Grammar-IN_PROGRESS-0D1117?style=for-the-badge&logo=duolingo&logoColor=FCD34D&labelColor=0D1117)
-![jlpt](https://img.shields.io/badge/✦_JLPT_N5-TARGET-0D1117?style=for-the-badge&logo=duolingo&logoColor=F87171&labelColor=0D1117)
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <span style="display: inline-block; background-color: #0D1117; color: #4ADE80; padding: 10px 15px; border-radius: 4px;">✦ Hiragana - COMPLETE</span>
+  <span style="display: inline-block; background-color: #0D1117; color: #4ADE80; padding: 10px 15px; border-radius: 4px;">✦ Katakana - IN PROGRESS</span>
+  <span style="display: inline-block; background-color: #0D1117; color: #4ADE80; padding: 10px 15px; border-radius: 4px;">✦ Numbers - IN PROGRESS</span>
+  <span style="display: inline-block; background-color: #0D1117; color: #FCD34D; padding: 10px 15px; border-radius: 4px;">✦ Particles - IN PROGRESS</span>
+  <span style="display: inline-block; background-color: #0D1117; color: #FCD34D; padding: 10px 15px; border-radius: 4px;">✦ N5 Grammar - IN PROGRESS</span>
+  <span style="display: inline-block; background-color: #0D1117; color: #F87171; padding: 10px 15px; border-radius: 4px;">✦ JLPT N5 - TARGET</span>
+</div>
 
->「いつか日本語を話せるようになりたい」*
+>「いつか日本語を話せるようになりたい」
 
 </div>
 
@@ -101,11 +116,13 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=F87171&center=true&vCenter=true&repeat=false&width=480&height=72&lines=✦+CONNECT+✦)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=F472B6)](https://www.instagram.com/7h3.qu13t.0n3?igsh=MXRiajN4cTlzMTg0MQ==)
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=7DD3FC)](https://t.me/Cognitiveshadows)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=FB923C)](mailto:sharppirate381@gmail.com)
-[![Claude](https://img.shields.io/badge/✦_CLAUDE-0D1117?style=for-the-badge&logo=anthropic&logoColor=C084FC)](https://claude.ai)
-[![Deepseek](https://img.shields.io/badge/✦_DEEPSEEK-0D1117?style=for-the-badge&logo=deepseek&logoColor=C084FC)](https://www.deepseek.com/en/)
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.instagram.com/7h3.qu13t.0n3?igsh=MXRiajN4cTlzMTg0MQ==" style="display: inline-block; background-color: #0D1117; color: #F472B6; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">Instagram</a>
+  <a href="https://t.me/Cognitiveshadows" style="display: inline-block; background-color: #0D1117; color: #7DD3FC; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">Telegram</a>
+  <a href="mailto:sharppirate381@gmail.com" style="display: inline-block; background-color: #0D1117; color: #FB923C; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">Gmail</a>
+  <a href="https://claude.ai" style="display: inline-block; background-color: #0D1117; color: #C084FC; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ CLAUDE</a>
+  <a href="https://www.deepseek.com/en/" style="display: inline-block; background-color: #0D1117; color: #C084FC; padding: 10px 15px; text-decoration: none; font-weight: bold; border-radius: 4px;">✦ DEEPSEEK</a>
+</div>
 
 <br>
 
