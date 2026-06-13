@@ -48,7 +48,7 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=87AAFF&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✦+Device+Logs+✦)
 
-[![Device](https://img.shields.io/badge/✦_MOTOROLA_ONE_POWER-0D1117?style=for-the-badge&logo=motorola&logoColor=E1001A)](https://www.gsmarena.com/motorola_one_power-9431.php)
+[![Device](https://img.shields.io/badge/✦_MOTOROLA_ONE_POWER-0D1117?style=for-the-badge&logo=motorola&logoColor=E1001A)](https://m.gsmarena.com/motorola_one_power_(p30_note)-9221.php)
 [![Codename](https://img.shields.io/badge/✦_Chef-0D1117?style=for-the-badge&logo=lineageos&logoColor=167C80)](https://wiki.lineageos.org/devices/chef/)
 [![ROM](https://img.shields.io/badge/✦_CRDROID_10.5-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)](https://crdroid.net)
 [![Root](https://img.shields.io/badge/✦_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)](https://kernelsu.org)
