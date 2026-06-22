@@ -48,12 +48,12 @@
 
 ![label](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=1000&pause=0&color=87AAFF&center=true&vCenter=true&repeat=false&width=680&height=72&lines=✦+Device+Logs+✦)
 
-[![Device](https://img.shields.io/badge/✦_MOTOROLA_ONE_POWER-0D1117?style=for-the-badge&logo=motorola&logoColor=E1001A)](https://m.gsmarena.com/motorola_one_power_(p30_note)-9221.php)
+[![Device](https://img.shields.io/badge/✦_MOTOROLA_ONE_POWER-0D1117?style=for-the-badge&logo=motorola&logoColor=E1001A)](https://www.gsmarena.com/motorola_one_power-9431.php)
 [![Codename](https://img.shields.io/badge/✦_Chef-0D1117?style=for-the-badge&logo=lineageos&logoColor=167C80)](https://wiki.lineageos.org/devices/chef/)
 [![ROM](https://img.shields.io/badge/✦_CRDROID_10.5-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84)](https://crdroid.net)
 [![Root](https://img.shields.io/badge/✦_KERNELSU-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)](https://kernelsu.org)
 
-![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=※+No+wall+survives+curiosity.;※+Root+is+just+the+beginning.;※+Rewrote+what+they+shipped.;※System+bends+I+don't.;※+Core+is+mine+now)
+![sys](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=4ADE80&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=148&lines=※+No+wall+survives+curiosity.;※+Root+is+just+the+beginning.;※+Rewrote+what+they+shipped.;※+System+bends+I+don't.;※+Core+is+mine+now)
 ![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,40:4ADE80,60:4ADE80,100:0D1117&animation=fadeIn)
 
 [![Magisk](https://img.shields.io/badge/Magisk-0D1117?style=for-the-badge&logo=magisk&logoColor=00AF9C)](https://github.com/topjohnwu/Magisk)
@@ -89,7 +89,9 @@
 
 ![vibes-text](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=EDE9FE&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=100&lines=✦+Late+nights+feel+different.;✦+Everything+slows+down+and+makes+sense.;✦+Music+becomes+louder+than+reality.)
 
-[gif2](./lofi-closing.gif) 
+| | |
+|:---:|:---:|
+| ![gif2](./lofi-closing.gif) |
 
 </div>
 
@@ -115,6 +117,4 @@
 
 [![Github](https://img.shields.io/badge/-4nx3b-black?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/4nx3b/4nx3b)
 
-
-<!-- FOOTER WAVE -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:7DD3FC,100:0D1117&section=footer)
