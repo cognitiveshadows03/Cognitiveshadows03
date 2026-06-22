@@ -89,9 +89,7 @@
 
 ![vibes-text](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1200&pause=0&color=EDE9FE&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=100&lines=✦+Late+nights+feel+different.;✦+Everything+slows+down+and+makes+sense.;✦+Music+becomes+louder+than+reality.)
 
-| | |
-|:---:|:---:|
-| ![gif2](./lofi-closing.gif) |
+[gif2](./lofi-closing.gif) 
 
 </div>
 
